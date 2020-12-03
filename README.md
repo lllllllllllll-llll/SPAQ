@@ -6,7 +6,7 @@ Reference: Y. Fang, H. Zhu, Y. Zeng, K. Ma and Z. Wang, "Perceptual Quality Asse
 1. This code is only support to train for the SPAQ dataset, becauase only the SPAQ contains the EXIF tags, and scene catogory labels for training the model.
 2. This version only support for training the baseline model, I will release the training code for Multi-Task Learning from EXIF Tags (MT-E), Multi-Task Learning from Image Attributes (MT-A)
 and Multi-Task Learning from Scene Semantics (MT-S）when I have free time.
-3. Thank you guys very much and I really need [***Stars***] to find a job. If my work is helpful to you, please give me some stars ;-).
+3. Thank you guys very much and I really need [**Stars**] to find a job. If my work is helpful to you, please give me some stars ;-).
 
 # Dependencies
 - Python 3.6+
